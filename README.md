@@ -13,5 +13,7 @@ Obvious requirements:
   - This is the fun part!
 - Lots of calculus - probably of the numeric kind - for approximating the required control inputs and timings, particularly for the Mun <-> Kerbin transfer orbits. Note that a lot of simplification can be done by allowing the system to time accelerate until Kerbin, the Mun and the spacecraft is in a well-defined, simple state where a solution is readily available. There are plenty of tricks and simplifications that KSP players already use for not having to think too hard about orbital maneuvers that the system can implement as well as long they're not too expensive for the craft's (known) delta V budget.
 - Telemachus or a similar plugin for getting data in and out of KSP
+  - https://github.com/richardbunt/Telemachus/wiki/HTTP-API
 - http://forum.kerbalspaceprogram.com/index.php?/topic/72605-105-flight-manager-for-reusable-stages-fmrs-v1001/
 - Progress videos now that you've got something powerful enough to record video on.
+- No MechJeb. Half the point is implementing the required control loops and physics calculations.
