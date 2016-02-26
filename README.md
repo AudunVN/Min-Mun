@@ -17,3 +17,4 @@ Obvious requirements:
 - http://forum.kerbalspaceprogram.com/index.php?/topic/72605-105-flight-manager-for-reusable-stages-fmrs-v1001/
 - Progress videos now that you've got something powerful enough to record video on.
 - No MechJeb. Half the point is implementing the required control loops and physics calculations.
+- http://ksp.olex.biz/ (take a look at js/kspcalc.js)
