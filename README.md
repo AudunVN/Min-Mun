@@ -1,2 +1,2 @@
-# Min-Mun-
+# Min(Mun)
 Work in progress: KSP/cybernetics project to develop a minimal implementation of a control system to take a multistage rocket to a specified Kerbin orbit (main goal one), then to a specified Munar orbit (main goal two), then to a landing in a specified spot on the Mun (main goal three) followed by a return to a specified Kerbin orbit (main goal four), and eventually a safe return (main goal five) plus a possibly powered SpaceX-style Kerbin landing in a prespecified location (main goal six).
